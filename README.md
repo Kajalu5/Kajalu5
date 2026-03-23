@@ -10,8 +10,8 @@ Aiming to detect, analyze, and mitigate advanced threats while contributing to o
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Log Analysis using Splunk         | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Networking Protocols         | <a href="https://google.com">Log Analysis using Splunk</a>|
+| Scripting using Python | <a href="https://google.com">Python for Pentesting</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -51,7 +51,7 @@ Aiming to detect, analyze, and mitigate advanced threats while contributing to o
 </div>
 
 ## Projects
-- Log Analysis 
+- Log Analysis using Splunk
 - Automation of Cimpliance Using Prowler
 - Cloud Detection Lab
 - Python for Pentesting 
