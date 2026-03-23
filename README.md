@@ -4,9 +4,7 @@
 I am an aspiring cybersecurity professional focused on Security Operations (SOC), specializing in log analysis and threat detection using tools like Splunk and AWS.This portfolio highlights hands-on projects analyzing real-world attacks across multiple protocols like HTTPS, DNS, FTP, and SMTP demonstrating my ability to identify threats, investigate incidents, and strengthen organizational security through structured analysis.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Aiming to detect, analyze, and mitigate advanced threats while contributing to organizational security through proactive monitoring, structured investigations, and alignment with frameworks like MITRE ATT&CK.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
