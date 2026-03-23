@@ -52,6 +52,6 @@ Aiming to detect, analyze, and mitigate advanced threats while contributing to o
 
 ## Projects
 - Log Analysis using Splunk
-- Automation of Cimpliance Using Prowler
+- Automation of Compliance Using Prowler
 - Cloud Detection Lab
 - Python for Pentesting 
