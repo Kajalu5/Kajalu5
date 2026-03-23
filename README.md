@@ -7,7 +7,6 @@ I am an aspiring cybersecurity professional focused on Security Operations (SOC)
 Aiming to detect, analyze, and mitigate advanced threats while contributing to organizational security through proactive monitoring, structured investigations, and alignment with frameworks like MITRE ATT&CK.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
