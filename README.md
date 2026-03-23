@@ -1,9 +1,7 @@
 # Hello, I'm KAJAL
 <a href="https://www.linkedin.com/in/kajal06/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am an aspiring cybersecurity professional focused on Security Operations (SOC), specializing in log analysis and threat detection using tools like Splunk and AWS.This portfolio highlights hands-on projects analyzing real-world attacks across multiple protocols like HTTPS, DNS, FTP, and SMTP demonstrating my ability to identify threats, investigate incidents, and strengthen organizational security through structured analysis.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
@@ -15,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Log Analysis using Splunk         | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -58,4 +56,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Log Analysis 
 - Automation of Cimpliance Using Prowler
+- Cloud Detection Lab
 - Python for Pentesting 
