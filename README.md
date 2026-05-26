@@ -51,7 +51,7 @@ Aiming to detect, analyze, and mitigate advanced threats while contributing to o
 </div>
 
 ## Projects
-- SOC Automation Lab
+- Active Directroy Home Lab
 - Log Analysis using Splunk
 - Automation of Compliance Using Prowler
 - Cloud Detection Lab
