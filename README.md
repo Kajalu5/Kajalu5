@@ -51,8 +51,8 @@ Aiming to detect, analyze, and mitigate advanced threats while contributing to o
 </div>
 
 ## Projects
-- Malware Analysis Lab
-- Active Directroy Home Lab
 - Log Analysis using Splunk
+- Active Directroy Home Lab
 - Automation of Compliance Using Prowler
+- Cloud Detection Lab
 - Python for Pentesting 
