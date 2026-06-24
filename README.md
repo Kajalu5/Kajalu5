@@ -49,8 +49,8 @@ To demonstrate my cybersecurity knowledge, hands-on projects, and technical skil
 </div>
 
 ## Projects
-- Log Analysis using Splunk
-- Active Directroy Home Lab
-- Automation of Compliance Using Prowler
-- Cloud Detection Lab
-- Python for Pentesting 
+- <a href="https://github.com/Kajalu5/Log-Analysis-using-Splunk"> Log Analysis using Splunk </a>
+- <a href="https://github.com/Kajalu5/Active-Directory-SIEM-Lab"> Active Directroy Home Lab </a>
+- <a href="https://github.com/Kajalu5/Automating-Audit-in-AWS-Using-Prowler"> Automation of Compliance Using Prowler </a>
+- <a href="https://github.com/Kajalu5/Cloud-Detection-Lab"> Cloud Detection Lab </a>
+- <a href="https://github.com/Kajalu5/Python-for-Pen-testing"> Python for Pentesting </a>
