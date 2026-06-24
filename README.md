@@ -41,12 +41,13 @@ Through academic studies, certifications, and practical projects, I continue to 
 
 ### Operating Systems
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-008B8B?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows%20Server-6A0DAD?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
 ### Programming
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Python-B87333?&style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
 ## Present Certifications
