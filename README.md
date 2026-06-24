@@ -4,7 +4,7 @@
 Aspiring cybersecurity professional pursuing an Executive Master of Science in Cyber Engineering with experience in log analysis, threat detection, and OSINT. Passionate about identifying security threats, investigating suspicious activity, and strengthening enterprise security. Committed to continuous professional growth through certifications, hands-on projects, and industry engagement, and actively seeking opportunities to contribute to protect organizational assets.
 
 ## Objective
-To demonstrate my cybersecurity knowledge, hands-on projects, and technical skills in areas such as log analysis, threat detection, OSINT, SIEM, and security monitoring. Through academic studies, certifications, and practical projects, I continue to develop the skills necessary to support enterprise security operations. The goal of this portfolio is to showcase my technical growth and problem-solving abilities in SecOps and Cloud Security domains.
+Through academic studies, certifications, and practical projects, I continue to develop the skills necessary to support enterprise security operations. The goal of this portfolio is to showcase my technical growth and problem-solving abilities in SecOps and Cloud Security domains.
 
 ## Skills
 
