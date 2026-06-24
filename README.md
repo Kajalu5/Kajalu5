@@ -15,7 +15,7 @@ Through academic studies, certifications, and practical projects, I continue to 
 | Kusto Query Language (KQL), Windows Event Log Analysis and MITRE ATT&CK Mapping        | <a href="https://github.com/Kajalu5/Cloud-Detection-Lab"> Cloud Detection Lab </a>|
 | Security Compliance Auditing, IAM and Risk Assessment     | <a href="https://github.com/Kajalu5/Cloud-Detection-Lab"> Automating Audit in AWS using Prowler </a>|
 | Domain Controller, Sysmon, Brute Force Attack Log generation                  | <a href="https://github.com/Kajalu5/Active-Directory-SIEM-Lab"> Active Directory Home Lab </a>|
-| HTTP, FTP, DNS, DHCP, SMTP, Tunnel and SSH log Analysis | <a href="https://github.com/Kajalu5/Log-Analysis-using-Splunk"> Log Analysis using Splunk </a>|
+| HTTP, FTP, DNS, DHCP, SMTP, Tunnel and SSH Log Analysis | <a href="https://github.com/Kajalu5/Log-Analysis-using-Splunk"> Log Analysis using Splunk </a>|
 
 ## Tools
 
