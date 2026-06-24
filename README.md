@@ -40,13 +40,13 @@ Through academic studies, certifications, and practical projects, I continue to 
 
 ## Present Certifications
 <div>
-
+<img src="https://img.shields.io/badge/-Splunk%201001-00A86B?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ## Upcoming Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-AWS%20CLF--C02-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 </div>
 
 ## Projects
