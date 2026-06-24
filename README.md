@@ -10,8 +10,7 @@ Through academic studies, certifications, and practical projects, I continue to 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python Scripting and Automation         | <a href="https://github.com/Kajalu5/Python-for-Pen-testing">Log Analysis using Splunk</a>|
-| Reconnaisance, Banner Grabbers, Port Scanners  | <a href="https://github.com/Kajalu5/Python-for-Pen-testing">Python for Pentesting </a>|
+| Python Scripting and Automation, Reconnaisance, Banner Grabbers, Port Scanners  | <a href="https://github.com/Kajalu5/Python-for-Pen-testing">Python for Pentesting </a>|
 | Kusto Query Language (KQL), Windows Event Log Analysis and MITRE ATT&CK Mapping        | <a href="https://github.com/Kajalu5/Cloud-Detection-Lab"> Cloud Detection Lab </a>|
 | Security Compliance Auditing, IAM and Risk Assessment     | <a href="https://github.com/Kajalu5/Cloud-Detection-Lab"> Automating Audit in AWS using Prowler </a>|
 | Domain Controller, Sysmon, Brute Force Attack Log generation                  | <a href="https://github.com/Kajalu5/Active-Directory-SIEM-Lab"> Active Directory Home Lab </a>|
@@ -39,13 +38,15 @@ Through academic studies, certifications, and practical projects, I continue to 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+## Present Certifications
+<div>
+
+</div>
+
+## Upcoming Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
 </div>
 
 ## Projects
