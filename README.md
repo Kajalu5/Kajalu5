@@ -10,9 +10,9 @@ Through academic studies, certifications, and practical projects, I continue to 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Networking Protocols         | <a href="https://google.com">Log Analysis using Splunk</a>|
-| Scripting using Python | <a href="https://google.com">Python for Pentesting</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Python Scripting and Automation         | <a href="https://github.com/Kajalu5/Python-for-Pen-testing">Log Analysis using Splunk</a>|
+| Reconnaisance, Banner Grabbers, Port Scanners  | <a href="https://github.com/Kajalu5/Python-for-Pen-testing">Python for Pentesting</a>|
+| Kusto Query Language (KQL), Windows Event Log Analysis and MITRE ATT&CK Mapping        | <a href="https://github.com/Kajalu5/Cloud-Detection-Lab"> SOC Automation Lab </a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
