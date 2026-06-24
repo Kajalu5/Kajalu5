@@ -1,10 +1,10 @@
 # Hello, I'm KAJAL
 <a href="https://www.linkedin.com/in/kajal06/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an aspiring cybersecurity professional focused on Security Operations (SOC), specializing in log analysis and threat detection using tools like Splunk and AWS.This portfolio highlights hands-on projects analyzing real-world attacks across multiple protocols like HTTPS, DNS, FTP, and SMTP demonstrating my ability to identify threats, investigate incidents, and strengthen organizational security through structured analysis.
+Aspiring cybersecurity professional pursuing an Executive Master of Science in Cyber Engineering with experience in log analysis, threat detection, and OSINT. Passionate about identifying security threats, investigating suspicious activity, and strengthening enterprise security. Committed to continuous professional growth through certifications, hands-on projects, and industry engagement, and actively seeking opportunities to contribute to protect organizational assets.
 
 ## Objective
-Aiming to detect, analyze, and mitigate advanced threats while contributing to organizational security through proactive monitoring, structured investigations, and alignment with frameworks like MITRE ATT&CK.
+To demonstrate my cybersecurity knowledge, hands-on projects, and technical skills in areas such as log analysis, threat detection, OSINT, SIEM, and security monitoring. Through academic studies, certifications, and practical projects, I continue to develop the skills necessary to support enterprise security operations. The goal of this portfolio is to showcase my technical growth and problem-solving abilities in SecOps and Cloud Security domains.
 
 ## Skills
 
@@ -18,7 +18,6 @@ Aiming to detect, analyze, and mitigate advanced threats while contributing to o
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -41,7 +40,6 @@ Aiming to detect, analyze, and mitigate advanced threats while contributing to o
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
