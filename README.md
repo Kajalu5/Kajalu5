@@ -1,7 +1,6 @@
 # Hello, I'm KAJAL
 <a href="https://www.linkedin.com/in/kajal06/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-Aspiring cybersecurity professional pursuing an Executive Master of Science in Cyber Engineering with experience in log analysis, threat detection, and OSINT. Passionate about identifying security threats, investigating suspicious activity, and strengthening enterprise security. Committed to continuous professional growth through certifications, hands-on projects, and industry engagement, and actively seeking opportunities to contribute to protect organizational assets.
+Cybersecurity graduate student pursuing an Executive M.S. in Cyber Engineering with interests in threat detection, log analysis, and security operations. Passionate about continuous learning and building practical cybersecurity skills through hands-on projects.
 
 ## Objective
 Through academic studies, certifications, and practical projects, I continue to develop the skills necessary to support enterprise security operations. The goal of this portfolio is to showcase my technical growth and problem-solving abilities in SecOps and Cloud Security domains.
