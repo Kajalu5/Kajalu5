@@ -69,3 +69,5 @@ Through academic studies, certifications, and practical projects, I continue to 
 - <a href="https://github.com/Kajalu5/Automating-Audit-in-AWS-Using-Prowler"> Automation of Compliance Using Prowler </a>
 - <a href="https://github.com/Kajalu5/Cloud-Detection-Lab"> Cloud Detection Lab </a>
 - <a href="https://github.com/Kajalu5/Python-for-Pen-testing"> Python for Pentesting </a>
+- AI Project
+- KC7 Cyber Project
